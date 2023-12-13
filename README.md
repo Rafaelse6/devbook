@@ -15,6 +15,7 @@
     <td>JS</td>
     <td>JQuery</td>
     <td>Bootstrap</td>
+    <td>Font Awesome</td>
   </tr>
 </table>
 
